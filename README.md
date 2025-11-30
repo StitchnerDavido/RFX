@@ -24,6 +24,7 @@ stop
 write("Hello " :: "World")  # Concatenation
 # COMMENTS
 # Single line comment
+^^ single line
 [[ Multi-line
    comment block ]]
 # Loops
