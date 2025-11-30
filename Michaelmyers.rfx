@@ -1,0 +1,13 @@
+release(true) = 1
+write("Michael Myers: ... ")
+so true == 1 do
+    release(input) = io("User: ")
+    so input == "hi" do
+        write("Michael Myers: *trips and rolls*")
+        release(input) = io("User: ")
+    stop
+    so input == "why" do
+        write("Michael Myers: *keeps staring*")
+        release(input) = io("User: ")
+   stop
+stop
