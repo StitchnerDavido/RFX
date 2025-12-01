@@ -23,8 +23,7 @@ stop
 # STRING OPERATIONS
 write("Hello " :: "World")  # Concatenation
 # COMMENTS
-# Single line comment
-^^ single line
+^^ Single line comment
 [[ Multi-line
    comment block ]]
 # Loops
